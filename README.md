@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksharma)
 [![Email](https://img.shields.io/badge/Email-deepaksharma.tech23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksharma.tech23@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Noida%2C%20India-success?style=for-the-badge)](https://maps.google.com/?q=Noida,India)
-[![Phone](https://img.shields.io/badge/📞-%2B91%2079747%2015641-blueviolet?style=for-the-badge)](tel:+917974715641)
+# [![Phone](https://img.shields.io/badge/📞-%2B91%2079747%2015641-blueviolet?style=for-the-badge)](tel:+917974715641)
 
 </div>
 
@@ -23,12 +23,12 @@
 
 ```yaml
 name        : Deepak Sharma
-role        : DevOps & Senior Cloud Engineer
+role        : Senior DevOps & Cloud Engineer
 experience  : 5+ Years
 location    : Noida, India
 certifications:
   - Microsoft Certified AZ-900 (Azure Fundamentals)
-  - Microsoft Certified AZ-104 (Azure Administrator)
+  - Certified Kubernetes Administrator (CKA)
 specialties:
   - Multi-Cloud Architecture (AWS | Azure | GCP)
   - Kubernetes Orchestration & GitOps
@@ -228,13 +228,13 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepaksharma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deeepak23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksharma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeepak23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=deepaksharma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e00&currStreakLabel=58a6ff" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=deeepak23&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e00&currStreakLabel=58a6ff" height="180"/>
 
 </div>
 
@@ -245,7 +245,7 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksharma&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deeepak23&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -258,7 +258,7 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksharma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksharma.tech23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeepak23)
 
 <br/>
 
@@ -276,6 +276,6 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 <sub>⭐ <b>Building resilient infrastructure. Automating the future. Securing everything.</b> ⭐</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=deepaksharma&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=deeepak23&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
