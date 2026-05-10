@@ -228,13 +228,22 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deeepak23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=deeepak23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeepak23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deeepak23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=deeepak23&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e00&currStreakLabel=58a6ff" height="180"/>
+<img src="https://streak-stats.demolab.com?user=deeepak23&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e00&currStreakLabel=58a6ff" height="180"/>
+
+</div>
+
+<!-- Profile Summary Cards (backup stats) -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=deeepak23&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deeepak23&theme=github_dark&utcOffset=5.5" height="160"/>
 
 </div>
 
@@ -245,7 +254,13 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deeepak23&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deeepak23&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&radius=8" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeepak23&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deeepak23&theme=github_dark" height="160"/>
 </div>
 
 ---
