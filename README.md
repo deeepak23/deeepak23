@@ -28,4 +28,4 @@ I'm a DevOps Engineer who loves building robust cloud infrastructure and sharing
 - 🎥 Launching a YouTube channel focused on tech and digital marketing freelancing.
 - 📝 Documenting technical deployment checklists and DevOps guides.
 
-📫 **Let's Connect:** [Your LinkedIn URL] | [Your YouTube Channel URL]
+📫 **Let's Connect:** https://www.linkedin.com/in/deepaksharma23/ | [Upcoming YouTube Channel URL]
