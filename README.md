@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksharma)
 [![Email](https://img.shields.io/badge/Email-deepaksharma.tech23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksharma.tech23@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Noida%2C%20India-success?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,India)
-
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2079747%2015641-blueviolet?style=for-the-badge&logo=phone&logoColor=white)](tel:+917974715641)
 
 </div>
 
@@ -238,14 +238,7 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 </div>
 
-<!-- Profile Summary Cards (backup stats) -->
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=deeepak23&theme=github_dark" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deeepak23&theme=github_dark&utcOffset=5.5" height="160"/>
-
-</div>
 
 ---
 
@@ -255,12 +248,6 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deeepak23&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&radius=8" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deeepak23&theme=github_dark" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deeepak23&theme=github_dark" height="160"/>
 </div>
 
 ---
