@@ -1,112 +1,291 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<h1 align="center">Hii 👋, I Am Deepak Sharma </h1>
+<!-- ═══════════════════════════════════════════ HEADER ═══════════════════════════════════════════ -->
 
-<h3 align="center">
-🚀 Senior DevOps & Cloud Engineer | CKA Certified | Kubernetes • Terraform • GitOps | Multi-Cloud (AWS / Azure / GCP)
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Deepak%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure%20Engineer&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<p align="center">
-💙 Learning daily | Building consistently | Growing step-by-step
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+DevOps+%26+Cloud+Engineer+%7C+5%2B+Years;☁️+Multi-Cloud+%7C+AWS+%7C+Azure+%7C+GCP;⚙️+Kubernetes+%7C+Terraform+%7C+GitOps;🔐+Security+%7C+ISO+27001+%7C+PCI-DSS+Compliant;📉+60%25+Faster+Deployments+%7C+40%25+Less+MTTR" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksharma)
+[![Email](https://img.shields.io/badge/Email-deepaksharma.tech23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksharma.tech23@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Noida%2C%20India-success?style=for-the-badge)](https://maps.google.com/?q=Noida,India)
+[![Phone](https://img.shields.io/badge/📞-%2B91%2079747%2015641-blueviolet?style=for-the-badge)](tel:+917974715641)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ ABOUT ═══════════════════════════════════════════ -->
+
+## 👨‍💻 About Me
+
+```yaml
+name        : Deepak Sharma
+role        : DevOps & Senior Cloud Engineer
+experience  : 5+ Years
+location    : Noida, India
+certifications:
+  - Microsoft Certified AZ-900 (Azure Fundamentals)
+  - Microsoft Certified AZ-104 (Azure Administrator)
+specialties:
+  - Multi-Cloud Architecture (AWS | Azure | GCP)
+  - Kubernetes Orchestration & GitOps
+  - CI/CD Automation & Infrastructure as Code
+  - Security, Compliance (ISO 27001 | PCI-DSS)
+  - Observability, Monitoring & Incident Response
+currently  : DevOps Engineer @ Antares-tech.com
+passion    : "Scaling systems, automating everything, securing everything"
+```
+
+> 🏗️ Architecting **production-grade** cloud infrastructure across AWS, Azure & GCP · Driving **60% faster deployments** · Cutting **MTTR by 40%** · Reducing **cloud costs by 25%** · Managing **400+ VMs** at 99.91% uptime.
+
+---
+
+<!-- ═══════════════════════════════════════════ IMPACT METRICS ═══════════════════════════════════════════ -->
+
+## 📊 Career Impact at a Glance
+
+<div align="center">
+
+| 🏆 Metric | 📈 Result |
+|---|---|
+| ⚡ CI/CD Deployment Speed | **60% Faster** via GitHub Actions |
+| 📉 MTTR Reduction | **40% Lower** with GCP Monitoring |
+| 💰 Cloud Cost Savings | **25% Cut** in 3 Months |
+| 🖥️ Infrastructure Managed | **400+ VMs** · 99.91% Uptime |
+| 🤖 Tasks Automated | **60+ Workflows** · Saved 20 hrs/week |
+| 🔐 Vulnerabilities Resolved | **250+** Security Issues Fixed |
+| 🔄 DR Setup Time | Reduced from **10 Days → 8 Hours** |
+| 📦 Cloud Migration | **30+ Servers · 2TB Data** (AWS → Azure) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ EXPERIENCE ═══════════════════════════════════════════ -->
+
+## 🚀 Work Experience
+
+<details open>
+<summary><b>🟢 DevOps Engineer — Antares-tech.com &nbsp;|&nbsp; May 2025 – Present</b></summary>
+
+<br/>
+
+- ☁️ Architecting secure, cost-effective infrastructure on **GCP** using **GitOps** and **Kubernetes (GKE)**
+- ⚡ Spearheaded **CI/CD automation** using **GitHub Actions** → reduced deployment time by **60%**
+- 🔗 Implemented **GCP Load Balancers (ALB)** with **K8s Gateway API**, **Cloud CDN**, and **GCP SQL**
+- 🔐 Integrated **GCP Vault**, **GCP Redis**, and **Cloud Storage** for secure secret management
+- 📡 Built observability pipelines with **GCP Monitoring** → MTTR reduced by **40%**
+- 🌐 Migrated **GCP CDN → Akamai CDN** for improved performance and security
+- 🗄️ Implemented **MongoDB Atlas** with **VPC Peering** for scalable, secure database access
+- 📜 Managed **Malta certification** and regulatory compliance (security & governance)
+
+</details>
+
+<details>
+<summary><b>🔵 Senior Cloud Engineer — REZO.AI &nbsp;|&nbsp; October 2021 – April 2025</b></summary>
+
+<br/>
+
+- 🖥️ Administered **400+ VMs** achieving **100% host uptime** and **99.91% service uptime**
+- 📡 Integrated **400+ servers** into **Nagios-XI** → reduced system downtime by **25%**
+- 🔭 Built comprehensive observability stack: **Nagios-XI, Graylog, Grafana, Prometheus, ELK Stack**
+- ⚙️ Automated deployments with **Terraform, Ansible, and Jenkins**
+- 🔐 Deployed **HashiCorp Vault** across **100+ apps** → unauthorized access incidents reduced by **20%**
+- 🤖 Automated **60+ repetitive tasks** using **Bash & Python** → saved **20 hours/week**
+- 💰 Reduced **cloud costs by 25%** in 3 months through infrastructure optimization
+- 🚚 Led **AWS → Azure migration**: 30+ servers, 5+ databases (~2TB) with zero production impact
+- 🔄 Reduced **DR setup time from 10 days → 8 hours**
+- 🛡️ Resolved **250+ security vulnerabilities** · Compliance with **ISO 27001 & PCI-DSS**
+- 🤖 Deployed **AWS Lambda** serverless functions for workflow automation
+- 🗣️ Integrated **Amazon Polly, Azure Cognitive Services, Amazon Transcribe** into production systems
+
+</details>
+
+<details>
+<summary><b>⚪ Junior DevOps Engineer — Numeric Infosystem Pvt. Ltd. &nbsp;|&nbsp; February 2021 – October 2021</b></summary>
+
+<br/>
+
+- ☁️ Managed cloud and on-premises infrastructure across **AWS, Azure, and Datacenter**
+- 🛠️ Diagnosed and resolved cloud service issues · Collaborated to reduce deployment issues by **15%**
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════ SKILLS ═══════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ Cloud Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Learner;AWS+%7C+Docker+%7C+Linux+%7C+Python;CI%2FCD+Enthusiast;Future+Devops+Engineer" />
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+<img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+### ⚙️ IaC & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+<img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+</p>
+
+### 🔄 CI/CD & Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
+
+### 📡 Monitoring & Observability
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP%20Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
+
+### 🔌 Messaging & Networking
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/NATS-199bdd?style=for-the-badge&logo=nats&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Akamai%20CDN-009BDE?style=for-the-badge&logo=akamai&logoColor=white"/>
+</p>
+
+### 💻 Programming & Scripting
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs,react&theme=dark" />
+</p>
+
+### 🔐 Security & Compliance
+<p>
+<img src="https://img.shields.io/badge/ISO%2027001-005FAD?style=for-the-badge&logo=iso&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCI--DSS-003087?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trend%20Micro-D71921?style=for-the-badge&logo=trend-micro&logoColor=white"/>
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ═══════════════════════════════════════════ CERTIFICATIONS ═══════════════════════════════════════════ -->
 
-## About Me
+## 🎓 Certifications & Education
 
-Azure & AWS cloud engineer with over 5+ years of experience in designing, implementing,deploying and managing cloud-based solutions. 
+<div align="center">
 
-Skilled in leveraging cloud technologies to optimize infrastructure, enhance scalability, and improve operational efficiency.
+| 🏅 Certification / Degree | 🏢 Issuing Body | 📅 Status |
+|---|---|---|
+| **Microsoft Certified: AZ-900** | Microsoft Azure | ✅ Certified |
+| **Microsoft Certified: AZ-104** | Microsoft Azure | ✅ Certified |
+| **B.E. — Electronics & Communication** | RGPV, Bhopal | 🎓 Graduated |
 
-Expertise in cloud architecture, deployment, and automation, with a focus on ensuring security, reliability, and cost optimization. 
-
-Collaborative team player with excellent problem-solving skills and a dedication to delivering high-quality solutions.
-
-Seeking challenging opportunities to utilize my skills and drive the successful adoption of cloud technologies in forward-thinking organizations.
-
-Key Skills:
-
-Cloud Architecture and Design
-Cloud Deployment and Management
-Automation and Orchestration
-Scalability and Performance Optimization
-Cost Optimization and Resource Management
-Continuous Integration and Delivery (CI/CD)
-Monitoring, Logging, and Troubleshooting
+</div>
 
 ---
 
-## What I'm Currently Working On
+<!-- ═══════════════════════════════════════════ CURRENTLY ═══════════════════════════════════════════ -->
 
-- 📅 **[90DaysDevOpsJourney](https://github.com/deepak/90DaysOfDevOps/tree/master/2026)** – daily learning and hands-on practice
-- 🔧 Strengthening *Git & GitHub* workflows
-- 🖥️ Improving *Linux fundamentals* and command-line usage
-- 🐍 Practicing *Python scripting* & *Shell scripting* for automation
-- 🐳 Learning containerization Concepts *Docker* & *Kubernetes*
-- ☁️ Exploring *AWS basics* and cloud services
+## 🔭 Currently Working On
 
+```bash
+$ kubectl get focus --namespace=2026
 
-<!-- ================= SKILLS ================= -->
+NAME                        STATUS      PROGRESS
+gitops-advanced             Running     ████████░░  80%
+k8s-security-hardening      Running     ███████░░░  70%
+gcp-professional-cert       Running     █████░░░░░  50%
+platform-engineering        Running     ████░░░░░░  40%
+cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
+```
 
-## 🛠️ Skills & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,python,git,github,bash,vscode&theme=light" />
-
-</p>
-
----
-
-<!-- ================= JOURNEY ================= -->
-
-## 📅 My Learning Journey
-
-✨ Instead of big projects, I focus on **real practice**
-- Python (Automation & Scripting)
-- Linux command labs
-- Git, Github, Github-action 
-- Networking troubleshooting  
-- Docker experiments  
-- Shell scripting  
-- AWS fundamentals  
+- 🎯 Pursuing **GCP Professional Cloud Architect** certification
+- ⚙️ Building production-grade **GitOps pipelines** with ArgoCD + Flux
+- 🔐 Hardening **Kubernetes security** with OPA/Gatekeeper and Falco
+- 💸 Exploring **FinOps** practices for smarter cloud cost governance
+- 📝 Documenting real-world DevOps patterns & sharing knowledge
 
 ---
 
-<!-- ================= STATS ================= -->
-
+<!-- ═══════════════════════════════════════════ STATS ═══════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="1083" height="430" alt="image" src="https://github.com/user-attachments/assets/fb384f25-efd8-4c79-a182-8db1bf9af9a7" />
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=deepaksharma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksharma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
 
+<br/><br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com?user=deepaksharma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e00&currStreakLabel=58a6ff" height="180"/>
 
-<!-- ================= CONNECT WITH ME ================= -->
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Amit5197">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amitpandey511997/?isSelfProfile=true">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-⭐ <b>Learning every day. Building every day. Becoming better every day.</b>
-</p>
+<!-- ═══════════════════════════════════════════ ACTIVITY GRAPH ═══════════════════════════════════════════ -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksharma&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ TROPHIES ═══════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=deepaksharma&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ CONNECT ═══════════════════════════════════════════ -->
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksharma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksharma.tech23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksharma)
+
+<br/>
+
+**💬 Open to discussing:** Cloud Architecture · DevOps Best Practices · Kubernetes · Cost Optimization · Security Compliance
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ FOOTER ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>⭐ <b>Building resilient infrastructure. Automating the future. Securing everything.</b> ⭐</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepaksharma&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
