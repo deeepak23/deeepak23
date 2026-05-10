@@ -4,13 +4,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Deepak%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure%20Engineer&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+DevOps+%26+Cloud+Engineer+%7C+5%2B+Years;☁️+Multi-Cloud+%7C+AWS+%7C+Azure+%7C+GCP;⚙️+Kubernetes+%7C+Terraform+%7C+GitOps;🔐+Security+%7C+ISO+27001+%7C+PCI-DSS+Compliant;📉+60%25+Faster+Deployments+%7C+40%25+Less+MTTR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Engineer+%7C+5%2B+Years;Multi-Cloud+%7C+AWS+%7C+Azure+%7C+GCP;Kubernetes+%7C+Terraform+%7C+GitOps+%7C+CKA;Security+%7C+ISO+27001+%7C+PCI-DSS+Compliant;60%25+Faster+Deployments+%7C+40%25+Less+MTTR;400%2B+VMs+Managed+%7C+99.91%25+Uptime" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksharma)
 [![Email](https://img.shields.io/badge/Email-deepaksharma.tech23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksharma.tech23@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Noida%2C%20India-success?style=for-the-badge)](https://maps.google.com/?q=Noida,India)
+[![Location](https://img.shields.io/badge/Location-Noida%2C%20India-success?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,India)
 
 
 </div>
@@ -23,7 +23,7 @@
 
 ```yaml
 name        : Deepak Sharma
-role        : Senior DevOps & Cloud Engineer
+role        : DevOps & Senior Cloud Engineer
 experience  : 5+ Years
 location    : Noida, India
 certifications:
@@ -33,7 +33,7 @@ specialties:
   - Multi-Cloud Architecture (AWS | Azure | GCP)
   - Kubernetes Orchestration & GitOps
   - CI/CD Automation & Infrastructure as Code
-  - Security, Compliance (ISO 27001 | PCI-DSS)
+  - Security & Compliance (ISO 27001 | PCI-DSS)
   - Observability, Monitoring & Incident Response
 currently  : DevOps Engineer @ Antares-tech.com
 passion    : "Scaling systems, automating everything, securing everything"
@@ -175,10 +175,10 @@ passion    : "Scaling systems, automating everything, securing everything"
 
 ### 🔐 Security & Compliance
 <p>
-<img src="https://img.shields.io/badge/ISO%2027001-005FAD?style=for-the-badge&logo=iso&logoColor=white"/>
+<img src="https://img.shields.io/badge/ISO%2027001-005FAD?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/PCI--DSS-003087?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trend%20Micro-D71921?style=for-the-badge&logo=trend-micro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trend%20Micro-D71921?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -275,6 +275,8 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>⭐ <b>Building resilient infrastructure. Automating the future. Securing everything.</b> ⭐</sub>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deeepak23&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
