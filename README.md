@@ -192,7 +192,7 @@ passion    : "Scaling systems, automating everything, securing everything"
 | 🏅 Certification / Degree | 🏢 Issuing Body | 📅 Status |
 |---|---|---|
 | **Microsoft Certified: AZ-900** | Microsoft Azure | ✅ Certified |
-| **Microsoft Certified: AZ-104** | Microsoft Azure | ✅ Certified |
+| **Certified Kubernetes Administrator (CKA)** | CNCF / Linux Foundation | ✅ Certified |
 | **B.E. — Electronics & Communication** | RGPV, Bhopal | 🎓 Graduated |
 
 </div>
@@ -246,16 +246,6 @@ cloud-cost-finops           Scheduled   ██░░░░░░░░  20%
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksharma&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════ TROPHIES ═══════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepaksharma&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
 ---
